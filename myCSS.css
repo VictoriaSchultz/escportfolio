@@ -5,14 +5,14 @@ body {
         font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 }
 .homePage {
-        background: #A4BAFA;
+        background: #97ADAB;
 }
 .container {
         width: 960px;
         margin: 0 auto;
 }
 .header {
-      background: #587EFA;
+      background: #517572;
       text-align: center;
       margin: 0px;
       padding: 5;
@@ -22,7 +22,7 @@ body {
 
 }
 .nav {
-      background: #FA9657;
+      background: #20423F;
       margin: 0px;
       padding: 5;
       float: left;
@@ -31,14 +31,14 @@ body {
       text-align: center;
 }
 .content {
-      background: #FA9657;
+      background: #9CDBD6;
       margin: 0px;
       float: left;
       width: 100%;
       text-align: center;
 }
 .footer {
-      background: #3987FA;
+      background: #517572;
       margin: 0px;
       float: left;
       width: 100%;
